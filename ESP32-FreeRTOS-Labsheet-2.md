@@ -94,8 +94,10 @@ void app_main(void)
 
 }
 
-```![Screenshot 2024-10-30 131837](https://github.com/user-attachments/assets/ae425a13-7dfb-4dc0-adc4-532bd8e9629f)
+```
+
+![Screenshot 2024-10-30 131837](https://github.com/user-attachments/assets/6bdd0a4f-7f8e-441c-90c0-e2598fd88ad9)
+
 
 ### จะขึ้น Hello My First Task พร้อมกัน 5 ตัว
-
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
