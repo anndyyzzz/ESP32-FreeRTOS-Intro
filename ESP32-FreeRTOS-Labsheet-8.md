@@ -102,5 +102,8 @@ void app_main(void)
 ```
 
 ### 3. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
+![Screenshot 2024-10-30 140640](https://github.com/user-attachments/assets/62c6e126-b902-43a4-871c-02bf7d91bb3a)
+
+### พอกดปุ่มแล้วจะขึ้นButton pressed!ที่รับค่ามาจากปุ่ม
 
  
