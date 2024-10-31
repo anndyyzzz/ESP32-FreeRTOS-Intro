@@ -20,6 +20,7 @@
 
 3. รันโปรแกรมและอธิบายผลที่ได้
 
-### https://drive.google.com/file/d/1hu1AdhX_OClhr_gyBD_OJRzF16vC6zOW/view?usp=sharing
+![Screenshot 2024-10-30 131751](https://github.com/user-attachments/assets/cf99d369-ce31-4b84-bb6f-d9255e06873f)
+
 ### จะนับไปเรื่อยๆถึง 65535
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-2.md) 
